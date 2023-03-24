@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500&family=Montserrat+Alternates:wght@200;300;400;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&family=Raleway:ital,wght@0,200;0,400;1,400&display=swap');
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway','sans-serif';
+}
+
+h2{
+    text-align: center;
+}
+
+.salida {
+
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    width: 30%;
+    height: 8rem;
+    margin: 1rem 35%;
+    border: 1px solid black;
+
+}
+
+.color-div{
+
+    text-align: center;
+}
